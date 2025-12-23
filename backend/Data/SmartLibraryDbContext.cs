@@ -12,7 +12,6 @@ namespace SmartLibrary.Data
     /// 
     /// Bu sınıf, veritabanı işlemlerini yönetir ve Entity Framework Core'un 
     /// Code First yaklaşımını kullanarak veritabanı şemasını oluşturur.
-    /// 
     /// Özellikler:
     /// - Table Per Hierarchy (TPH) pattern ile polimorfik kayıtlar
     /// - List<string> türündeki özelliklerin CSV formatında saklanması
